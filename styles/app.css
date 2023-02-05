@@ -36,7 +36,7 @@
     display: block;
     text-decoration: none;
     color: inherit;
-    cursor: none;
+    /* cursor: none; */
   }
   video {
     max-width: 100%;
@@ -84,7 +84,7 @@
     font-smooth: always;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    cursor: none;
+    /* cursor: none; */
   }
 
   .circles{
